@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sanjana6017/Leetcode_journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sanjana6017/Leetcode_journey/tree/master/0013-roman-to-integer) |
 ## String
 |  |
