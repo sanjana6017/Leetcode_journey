@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanjana6017/Leetcode_journey/tree/master/0014-longest-common-prefix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjana6017/Leetcode_journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -27,4 +28,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sanjana6017/Leetcode_journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sanjana6017/Leetcode_journey/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanjana6017/Leetcode_journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
