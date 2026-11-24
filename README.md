@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjana6017/Leetcode_journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjana6017/Leetcode_journey/tree/master/0013-roman-to-integer) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjana6017/Leetcode_journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -23,10 +24,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanjana6017/Leetcode_journey/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sanjana6017/Leetcode_journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjana6017/Leetcode_journey/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjana6017/Leetcode_journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjana6017/Leetcode_journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanjana6017/Leetcode_journey/tree/master/0014-longest-common-prefix) |
 ## Trie
